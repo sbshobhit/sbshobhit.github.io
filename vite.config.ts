@@ -12,4 +12,5 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
+  base: "/sbshobhit.github.io/",
 })
